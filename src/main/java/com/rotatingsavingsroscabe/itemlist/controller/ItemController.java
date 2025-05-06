@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:5173") // Allow React app to call this API
 @RestController
 @RequestMapping("/items")
 public class ItemController {
