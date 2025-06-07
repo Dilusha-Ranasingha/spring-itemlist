@@ -1,6 +1,6 @@
 # 🛍️ Item List Fullstack Web Application
 
-A fullstack web application built using **Spring Boot (Java)** on the backend with PostgreSQL and Redis support, designed for managing item listings. Frontend is expected to be hosted at [https://itel.app/](https://itemlist-taupe.vercel.app/).
+A fullstack web application built using **Spring Boot (Java)** on the backend with PostgreSQL and Redis support, designed for managing item listings. Frontend is expected to be hosted at [https://items.app/](https://itemlist-taupe.vercel.app/).
 
 ---
 
